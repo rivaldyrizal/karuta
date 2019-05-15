@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="KUDA" size="1.000000 0.328689" />
+    <ImageTarget name="4A-marker" size="1.000000 0.999590" />
+    <ImageTarget name="3D-marker" size="1.000000 0.999590" />
+    <ImageTarget name="2U-marker" size="1.000000 1.000411" />
+    <ImageTarget name="1K-marker" size="1.000000 0.999599" />
+  </Tracking>
+</QCARConfig>
